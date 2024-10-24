@@ -45,8 +45,8 @@ This repository is designed to help developers learn and improve their skills in
 ## Technologies
 
 - **Frontend:** HTML, CSS, JavaScript, React, Bootstrap, TailwindCSS
-- **Backend:** Node.js, Express, MongoDB, MySQL, REST APIs, JWT
-- **Others:** Git, GitHub, Postman
+- **Backend:**
+- **Others:** Git, GitHub
 
 ## Getting Started
 
