@@ -33,8 +33,6 @@
 ## 🔧 Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Express (if applicable)
-- **Database**: MongoDB or LocalStorage (as per the implementation)
 
 ## 🏆 Advantages
 
