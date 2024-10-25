@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://a.1stdibscdn.com/archivesE/upload/a_286/1462233090716/Between_Rain_master.jpg?disable=upscale&auto=webp&quality=60&width=700');
+    background-size: cover;
+    background-size: 4000px 4000px;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: rgb(166, 225, 236);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    border: 2px solid black;
+}
+
+input, button {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #341212;
+    outline: none;
+    transition: all 0.3s ease;
+}
+
+button:hover {
+    background-color: #051006;
+    color: white;
+    cursor: pointer;
+}
+
+#weatherInfo {
+    margin-top: 20px;
+    display: none;
+}
+
+#weatherInfo.fade-in {
+    display: block;
+}
+
+#weatherIcon {
+    width: 100px;
+    height: 100px;
+}
+
+.hidden {
+    display: none;
+}
